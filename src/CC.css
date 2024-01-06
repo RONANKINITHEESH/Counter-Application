@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+.btn{
+    margin: 1rem;
+    width:8rem;
+    height: 1.25rem;
+    background-color: blueviolet;
+    border-radius: 0.5rem;
+    border-color: blueviolet;
+    color: white;
+}
